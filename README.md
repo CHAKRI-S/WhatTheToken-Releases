@@ -4,29 +4,29 @@ Official public downloads for **What The Token**.
 
 > Know before you hit it.
 
-## Current release
+## Latest macOS release
 
-[Download What The Token 0.2.0 — Unsigned Preview 1](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/tag/v0.2.0-preview.1)
+[What The Token 0.2.30 — macOS Unsigned Preview](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/tag/v0.2.30-macos-preview.1)
 
-### macOS 13 or later
+- [Download WhatTheToken-0.2.30-unsigned-preview.dmg](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.30-macos-preview.1/WhatTheToken-0.2.30-unsigned-preview.dmg)
+- [macOS SHA-256 checksum](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.30-macos-preview.1/SHA256SUMS.macos)
 
-- [WhatTheToken-0.2.0-unsigned-preview.dmg](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.0-preview.1/WhatTheToken-0.2.0-unsigned-preview.dmg)
+Version 0.2.30 fixes the Codex `5h` reset display and prevents a weekly reset from being paired with the primary `5h` window.
 
-This preview is not Apple Developer ID signed or notarized yet. Verify `SHA256SUMS.txt`, then Control-click the installed app and choose **Open**. If macOS blocks it, use **System Settings → Privacy & Security → Open Anyway** only after verifying the checksum.
+This preview is not Apple Developer ID signed or notarized. Verify the checksum, then Control-click the installed app and choose **Open**. If macOS blocks it, use **System Settings → Privacy & Security → Open Anyway** only after verifying the checksum.
 
-### Windows 11
+Version 0.2.30 contains the new Mac-only Sparkle feed URL. Users of older Mac previews must install 0.2.30 manually once. The feed endpoint is live; automatic delivery of future versions will begin after the EdDSA-signed appcast workflow can run again.
 
-- [Windows x64 portable ZIP](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.0-preview.1/WhatTheToken-windows-x64-portable.zip) — most Intel/AMD computers
-- [Windows arm64 portable ZIP](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.0-preview.1/WhatTheToken-windows-arm64-portable.zip) — Snapdragon/Windows on ARM
+## Latest Windows release
 
-Extract the ZIP and run `WhatTheToken.exe` while keeping every extracted dependency in the same folder.
+[What The Token v0.2.29-preview.1 — unsigned Windows installer preview](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/tag/v0.2.29-preview.1)
 
-Native Windows Widgets Board preview packages and installation instructions are available on the release page.
+Windows builds, runtime testing and Windows release assets are maintained from Tik's Windows 11 environment.
 
-## Integrity
+## macOS update feed
 
-- [SHA256SUMS.txt](https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.0-preview.1/SHA256SUMS.txt)
+- [appcast-macos.xml](https://raw.githubusercontent.com/CHAKRI-S/WhatTheToken-Releases/main/appcast-macos.xml)
 
-The current preview is unsigned. Apple Developer ID/notarization, Windows code-signing and automatic updates will be enabled in a later signed release.
+The Mac update feed is separate from Windows releases. Signed production updates will additionally require Apple Developer ID signing and notarization.
 
 The application source is maintained in a private repository. This repository contains only public release information and downloadable release assets.
