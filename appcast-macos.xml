@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>What The Token macOS Updates</title>
+    <link>https://github.com/CHAKRI-S/WhatTheToken-Releases</link>
+    <description>EdDSA-signed macOS updates for What The Token.</description>
+    <language>en</language>
+  </channel>
+</rss>
