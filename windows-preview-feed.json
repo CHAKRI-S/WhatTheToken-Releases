@@ -1,20 +1,20 @@
 [
   {
-    "tag_name": "v0.2.33-preview.25",
+    "tag_name": "v0.2.33-preview.26",
     "draft": false,
     "prerelease": true,
     "assets": [
       {
         "name": "WhatTheToken-windows-x64-portable.zip",
-        "browser_download_url": "https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.33-preview.25/WhatTheToken-windows-x64-portable.zip",
-        "digest": "sha256:9ab1427061b0d4f0d0901de744ed4134256d86fcc4de573e774955aabc5acd58",
-        "size": 195071998
+        "browser_download_url": "https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.33-preview.26/WhatTheToken-windows-x64-portable.zip",
+        "digest": "sha256:89aaeb3386355bf4d6d67ac2a9541353336a20947f7de8f399f7e442f1216a01",
+        "size": 195072040
       },
       {
         "name": "WhatTheToken-windows-arm64-portable.zip",
-        "browser_download_url": "https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.33-preview.25/WhatTheToken-windows-arm64-portable.zip",
-        "digest": "sha256:41d19aef69d7c349da2100171b5d0704bd45370608a5bdd2afa76c1bf43017a0",
-        "size": 183560503
+        "browser_download_url": "https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.33-preview.26/WhatTheToken-windows-arm64-portable.zip",
+        "digest": "sha256:10e2be272751c02d98d6357a9ac851b8c6e5a89f1054e5cf7e20df65bf50126b",
+        "size": 183560458
       }
     ]
   }
