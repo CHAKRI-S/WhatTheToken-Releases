@@ -40,6 +40,17 @@ This Windows preview is unsigned, so Microsoft Defender SmartScreen may show a w
 
 Windows builds, runtime testing and Windows release assets are maintained from Tik's Windows 11 environment.
 
+## Windows provider requirements
+
+What The Token does not request provider credentials or copy sessions between computers. Install and sign in to each provider under the same Windows user account that runs What The Token.
+
+| Provider | Required local session |
+| --- | --- |
+| Claude | Install and sign in through **Claude Code CLI** at least once. What The Token reads the current user's Claude Code session from `%USERPROFILE%\.claude\.credentials.json`. A Claude Desktop login by itself is not supported. |
+| GPT Codex | Install and sign in through either **Codex CLI** or **Codex Desktop**. What The Token discovers the available `codex` runtime and starts Codex App Server locally to read account rate limits. Installing both is not required. |
+
+Claude Code, Codex CLI and Codex Desktop do not need to remain open while What The Token is running. After signing in or switching accounts, open What The Token and select **Refresh usage**. If a provider is logged out, offline, rate-limited or does not return quota data, its limit remains unavailable instead of showing an invented value.
+
 ## macOS update feed
 
 - [appcast-macos.xml](https://raw.githubusercontent.com/CHAKRI-S/WhatTheToken-Releases/main/appcast-macos.xml)
