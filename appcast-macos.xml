@@ -7,6 +7,15 @@
         <language>en</language>
         <item>
             <title>0.2.36</title>
+            <pubDate>Thu, 30 Jul 2026 07:37:38 +0700</pubDate>
+            <link>https://github.com/CHAKRI-S/WhatTheToken-Releases</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.2.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.36-macos-preview.5/WhatTheToken-0.2.36.dmg" length="7500155" type="application/octet-stream" sparkle:edSignature="x4RGdnWzZ4Sntt/MtY96qNJgB13ap2Ang0Z/kVIuAM+KZ+8o45AdOgE3lOuO4GDynISUm9+j57lLqRRgRhvzBQ=="/>
+        </item>
+        <item>
+            <title>0.2.36</title>
             <pubDate>Tue, 28 Jul 2026 15:51:07 +0700</pubDate>
             <link>https://github.com/CHAKRI-S/WhatTheToken-Releases</link>
             <sparkle:version>39</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:shortVersionString>0.2.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.36-macos-preview.3/WhatTheToken-0.2.36.dmg" length="7304054" type="application/octet-stream" sparkle:edSignature="XoN8ZLWkVvcrIdZNb5RyZbuakMNM2OqbXi3XIbWi9Bjzx5kvIhgPBjMh92JmdwiJ5BH/kYDadExj16JEjMbuDQ=="/>
-        </item>
-        <item>
-            <title>0.2.36</title>
-            <pubDate>Tue, 28 Jul 2026 11:05:43 +0700</pubDate>
-            <link>https://github.com/CHAKRI-S/WhatTheToken-Releases</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.2.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/v0.2.36-macos-preview.2/WhatTheToken-0.2.36.dmg" length="7265299" type="application/octet-stream" sparkle:edSignature="E13g0fofuuhdzVLty1YqA2EkpQSlG+WQ0jBdFlWoLI/rlBVhAvxH8NuFjs2gfrorC02ALgxkiaNmTfP+I3M9Bg=="/>
         </item>
     </channel>
 </rss>
