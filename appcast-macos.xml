@@ -3,14 +3,14 @@
     <channel>
         <title>What The Token</title>
         <item>
-            <title>0.4.5</title>
-            <pubDate>Thu, 20 Aug 2026 23:56:54 +0000</pubDate>
+            <title>0.4.6</title>
+            <pubDate>Fri, 21 Aug 2026 01:34:56 +0000</pubDate>
             <link>https://github.com/CHAKRI-S/WhatTheToken-Releases</link>
             <sparkle:phasedRolloutInterval>86400</sparkle:phasedRolloutInterval>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/mac-v0.4.5/WhatTheToken-0.4.5.dmg" length="7768588" type="application/octet-stream" sparkle:edSignature="7yFxiS9ZZcubIRJIQbKktPwpPxbi7lGWNjfE4yVSa7KVsjw6KsPkdgmuvmtmqcSHdhLlK5GX5jh7GJIG3vX6AA=="/>
+            <enclosure url="https://github.com/CHAKRI-S/WhatTheToken-Releases/releases/download/mac-v0.4.6/WhatTheToken-0.4.6.dmg" length="7772821" type="application/octet-stream" sparkle:edSignature="lJkX9+LVKQTOAGPfIRj3bAq3CGOjWRI6LEQJdkLhbCAAT/7Zr637KRVhDA1b64voxUdLx+asSkDdU3QYMdDYAQ=="/>
         </item>
     </channel>
 </rss>
